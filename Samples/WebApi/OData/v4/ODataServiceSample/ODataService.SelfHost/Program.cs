@@ -10,7 +10,7 @@ namespace ODataService.SelfHost
 {
     class Program
     {
-        static readonly Uri _baseAddress = new Uri("http://localhost:50231/");
+        static readonly Uri _baseAddress = new Uri("http://localhost:50232/");
         static void Main(string[] args)
         {
             // Start listening
